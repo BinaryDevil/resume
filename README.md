@@ -1,6 +1,6 @@
-# Tingrui Li — Resume
+# Terry Li — Resume
 
-A bilingual, responsive online resume for Tingrui Li, a frontend engineering lead with experience building large-scale digital banking products. The static site includes English and Chinese versions, light/dark themes, downloadable PDFs, and no build step.
+A bilingual, responsive online resume for Terry Li, a frontend engineering lead with experience building large-scale digital banking products. The static site includes English and Chinese versions, light/dark themes, downloadable PDFs, and no build step.
 
 ## Visit
 
