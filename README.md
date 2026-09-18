@@ -1,7 +1,12 @@
-# My Resume
+# Tingrui Li — Resume
 
-Click [here](http://binarydevil.github.io/Resume/) to visit.
+A bilingual, responsive online résumé for Tingrui Li, a frontend engineering lead with experience building large-scale digital banking products. The static site includes English and Chinese versions, light/dark themes, downloadable PDFs, and no build step.
 
-# 我的个人简历
+## Visit
 
-请通过[这里](http://binarydevil.github.io/Resume/)访问。
+- [English résumé](https://binarydevil.github.io/resume/)
+- [中文简历](https://binarydevil.github.io/resume/cnindex.html)
+
+## Local preview
+
+Serve this directory with any static file server, then open `index.html` in a browser.
