@@ -66,7 +66,7 @@
         </div>
       </div>
     </main>
-    <footer class="site-footer">Updated from résumé · <a href="https://github.com/BinaryDevil/resume">Source</a></footer>
+    <footer class="site-footer">Updated from resume · <a href="https://github.com/BinaryDevil/resume">Source</a></footer>
   </div>
   <script>const toggle=document.querySelector('.theme-toggle');const storageKey='resume-theme';const applyTheme=theme=>{document.documentElement.dataset.theme=theme;const isDark=theme==='dark';toggle.setAttribute('aria-pressed',String(isDark));toggle.setAttribute('aria-label',isDark?'Switch to light theme':'Switch to dark theme');toggle.textContent=isDark?'☀':'◐'};const saved=localStorage.getItem(storageKey);if(saved)applyTheme(saved);toggle.addEventListener('click',()=>{const next=document.documentElement.dataset.theme==='dark'?'light':'dark';localStorage.setItem(storageKey,next);applyTheme(next)});</script>
 </body>
